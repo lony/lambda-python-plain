@@ -1,0 +1,8 @@
+bundle.zip
+
+#IDE Stuff
+**/.idea
+
+#OS STUFF
+.DS_Store
+.tmp
